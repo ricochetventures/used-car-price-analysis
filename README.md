@@ -9,4 +9,4 @@ Brand representation follows predictable patterns, with Ford leading by volume, 
 **Model Performance**
 The modeling results show substantial differences between approaches. Random Forest achieved an R-squared of 0.81 with an RMSE of $6,227, while linear regression models performed significantly worse at 0.51 R-squared with nearly $10,000 RMSE. This performance gap indicates that used car pricing involves complex, non-linear relationships between variables that tree-based models capture more effectively than linear approaches.
 
-Link to notebook: used_car_analysis.ipynb
+Link to notebook: [used_car_analysis.ipynb](https://github.com/ricochetventures/used-car-price-analysis/blob/main/used_car_analysis.ipynb)
